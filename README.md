@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="Satria Bahari Banner" width="100%">
 </p>
 💫 About Me:
-I'm an Information Systems student with a strong interest in Full-Stack Web Development and Machine Learning. With a solid foundation in backend architecture using Laravel and frontend libraries like React, I enjoy navigating the ever-evolving landscape of software development with enthusiasm.<br><br>Currently, I am focused on building Evoria—a digital marketplace designed to help customers find event organizer services seamlessly. Alongside web development, I love diving into data science to build and optimize machine learning models, aiming to create smarter, data-driven applications.<br><br>As a quick learner and adaptive thinker, I thrive in dynamic environments. My collaborative nature allows me to seamlessly integrate with teams, contributing my technical skills while always valuing input from every team member.
+I'm an Information Systems student with a strong interest in Full-Stack Web Development and Machine Learning. With a solid foundation in backend architecture using Laravel and frontend libraries like React, I enjoy navigating the ever-evolving landscape of software development with enthusiasm.<br><br>Currently, I am focused on building Evoria, a digital marketplace designed to help customers find event organizer services seamlessly. Alongside web development, I love diving into data science to build and optimize machine learning models, aiming to create smarter, data-driven applications.<br><br>As a quick learner and adaptive thinker, I thrive in dynamic environments. My collaborative nature allows me to seamlessly integrate with teams, contributing my technical skills while always valuing input from every team member.
 
 
 ## 🌐 Socials:
